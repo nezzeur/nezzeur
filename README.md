@@ -1,2 +1,2 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezzeur&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezzeur)](https://github.com/nezzeur/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezzeur&layout=compact)
