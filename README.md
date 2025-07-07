@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Nezzeur !
+# 👋 Salut, moi c’est Noa !
 
 ---
 
