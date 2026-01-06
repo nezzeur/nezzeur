@@ -82,17 +82,6 @@ const noa = {
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nezzeur&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=313244&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhProGamer&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=313244&hide_border=false&langs_count=8" height="150"/>
-</p>
-
-
-
----
-
 
 ## 🎯 Ce que je recherche en alternance
 
