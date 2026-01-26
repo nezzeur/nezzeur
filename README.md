@@ -24,8 +24,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,vscode,github,tailwind,git,mysql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,typescript,postgresql,mongodb,docker,react,nodejs,linux,git" /><br>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,php" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,laravel,symfony,postgresql,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,docker,vercel,git,github,idea" /><br>
+</div>
+<br/>
 </div>
 <br/>
 <hr/>
