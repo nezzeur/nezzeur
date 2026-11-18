@@ -12,7 +12,6 @@
   <a href="https://noaperu.fr"><img src="https://img.shields.io/badge/noaperu.fr-C6FF3D?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/noa-peru-5a0942373"><img src="https://img.shields.io/badge/LinkedIn-1B1D1F?style=for-the-badge" /></a>
   <a href="mailto:noaperu3@gmail.com"><img src="https://img.shields.io/badge/E--mail-1B1D1F?style=for-the-badge" /></a>
-  <a href="https://noaperu.fr/CvPeruNoa.pdf"><img src="https://img.shields.io/badge/CV-1B1D1F?style=for-the-badge" /></a>
 </p>
 
 <br/>
