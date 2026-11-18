@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nezzeur.nezzeur&left_color=%231B1D1F&right_color=%233D4A1E" />
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Noa Peru, développeur full-stack en alternance" width="100%" />
+  <img src="banner.png" alt="Noa Peru" width="100%" />
 </p>
 
 <p align="center">
